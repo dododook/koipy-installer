@@ -7,4 +7,6 @@
 ## 🚀 一键安装命令
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/dododook/koipy-installer/main/koipy-installer.sh)
+
+
+bash <(curl -Ls https://raw.githubusercontent.com/dododook/koipy-installer/refs/heads/main/koipy-installer.sh)
